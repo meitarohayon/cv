@@ -1,0 +1,75 @@
+
+
+
+
+
+
+body{
+	
+	text-align:right;
+	font-family:Calibri;
+	background-color:white;
+	 
+       
+	
+	
+}
+
+
+h5{
+	font-size:20px;
+	color:#336699;
+	
+}
+ 
+
+
+img{
+	 width:100px;
+     height:110px;
+     border-radius:50%;
+     display: inline-block;
+     margin-right:10px; 
+     float:left;
+
+}
+
+
+#title{
+	font-family:Guttman Mantova-Decor;
+	color:#003366;
+	font-size:50px;
+	text-align:center;
+	
+}
+
+.right-list-style{
+	list-style-position:inside;
+	list-style-type:square;
+	text-align:right;
+	direction:rtl;
+	
+}
+
+.vertical-line{
+    border-right:3px solid blue;
+    height:100px;
+	color:blue
+        
+}
+
+ul{
+    list-style-type:none;
+    padding:0;
+    content:":";
+    margin-left:5px;
+	
+}
+
+ .text-with-colon {
+            display: inline-block
+ }
+			
+.colon {
+            margin-right: 5px;
+}
