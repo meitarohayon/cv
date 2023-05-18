@@ -58,13 +58,7 @@ img{
         
 }
 
-ul{
-    list-style-type:none;
-    padding:0;
-    content:":";
-    margin-left:5px;
-	
-}
+
 
  .text-with-colon {
             display: inline-block
